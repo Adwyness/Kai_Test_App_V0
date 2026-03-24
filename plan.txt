@@ -1,0 +1,16 @@
+Task: Data entry form app
+
+Objectives: 
+1. Create data management backend with firebase
+2. Create app frontend for android and IOS using flutter
+3. Create login questionnaire to "lock in" user data, linked to login/saved on phone
+3. Create questionnaire relevant to other work packages
+4. Link data submissions with unique ID linked to "locked in" data
+5. Manage data to usable output for other work packages. 
+
+
+Firebase and Flutter are future-proof, being owned by google.
+Firebase has scaleable costing, i.e. more users, more data, more cost. 
+Firebase, being owned by google should be futureproof for further app development, without giving fishers another sign up portal. 
+Flutter allows IOS and android app development from one base, with both avenues reporting data centrally to a single firebase data management account. 
+
